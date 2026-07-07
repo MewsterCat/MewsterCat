@@ -1,5 +1,5 @@
 #  Welcome to my GitHub profile
-> *(I'm not planning about making this readme so special)*
+> I don't care if you don't like my README, it's only for information about me *(I'm not planning about making this readme so special)*.
 ---
 ## About me
 I'm Mewster, I just exist for no reason. I'm literally [Legoshi](https://beastars.fandom.com/wiki/Legoshi).
