@@ -1,5 +1,5 @@
 #  Welcome to my GitHub profile
-> I don't care if you don't like my README, it's only for information about me *(I'm not planning about making this readme so special)*.
+> I made this for custom profile *(I'm not planning about making this readme so special)*. I might post something here in future.
 ---
 ## About me
 - I exist for no reason. I do what I want.
