@@ -1,2 +1,4 @@
-# Welcome! I'm Mewster
-This profile is for everythink about me, I will update it as soon I can!
+# 👋 Welcome! I'm Mewster
+---
+## 📜 About me
+I'm Mewster, I just exist for no reason
