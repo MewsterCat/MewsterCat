@@ -5,7 +5,7 @@
 I'm Mewster, I just exist for no reason. I'm literally [Legoshi](https://beastars.fandom.com/wiki/Legoshi).
 
 My socials:
-![Static Badge](https://img.shields.io/badge/click_here-gray?logo=YouTube&label=YouTube&labelColor=red&link=right-https%3A%2F%2Fyoutube.com%2F%40MewsterCatYT)
+![Static Badge](https://img.shields.io/badge/click_here-gray?logo=YouTube&label=YouTube&labelColor=red&link=https%3A%2F%2Fyoutube.com%2F%40MewsterCatYT)
 
 > *(you can also look at my discord connections)*
 
