@@ -1,13 +1,9 @@
 #  Welcome to my GitHub profile
 > I made this for custom profile *(I'm not planning about making this readme so special)*. I might post something here in future.
 ---
-## About me
-- I exist for no reason. I do what I want.
-
-- I love Beastars.
-
-- I'm literally [Legoshi](https://beastars.fandom.com/wiki/Legoshi).
-
+always be ready to stand on your own.
+people can change in seconds. today you might mean the world to them and tomorrow you're nothing.
+that's life.
 ---
 
 My socials:
