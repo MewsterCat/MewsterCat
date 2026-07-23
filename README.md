@@ -2,7 +2,9 @@
 > I made this for custom profile *(I'm not planning about making this readme so special)*. I might post something here in future.
 ---
 always be ready to stand on your own.
+
 people can change in seconds. today you might mean the world to them and tomorrow you're nothing.
+
 that's life.
 ---
 
